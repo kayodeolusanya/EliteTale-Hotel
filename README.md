@@ -23,3 +23,6 @@ to deal with.
 I was employed as a Data
 Scientist to explore the data and provide
 some insights and recommendations?
+
+
+<img src="C:\Users\ASUS GAMING\Desktop\DataProjects\Elites\EliteHotelDashboard.PNG" width="800">
