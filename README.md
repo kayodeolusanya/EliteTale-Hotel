@@ -1,5 +1,5 @@
 ## EliteTale-Hotel
-#EliteTale Hotel is a swedish hotel with state-of-the art guestrooms combine modern style and undeniable
+EliteTale Hotel is a swedish hotel with state-of-the art guestrooms combine modern style and undeniable
 comfort, with original artwork complementing the Swedish furnishings. The
 muted colour schemes contrast with the city lights and skyscrapers in the
 background. All of our rooms include LCD flat-screen televisions, wired or
