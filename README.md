@@ -46,5 +46,18 @@ Winter has the lowest cancellation ratio with only 17,5% of guests cancelling wh
 
 Room type 1 is the most famous room with 78.5% of guest requesting it.
 
+**Recommendations**
+
+Give attractive incentives for lead time falling in the range of short and within average to encourage customers to reduce cancelation due to lead time length. 
+
+Reduce average room price to encourage the large proportion of customers to retain their bookings.
+
+Make the hotel website a more user friendly and easy to use, place better incentive to the use of online bookings to reduce need for cancelltions.
+
+Booking deposits which are non refundable should be tangible so as to disdcourage guest from cancelling
+
+![image](https://user-images.githubusercontent.com/112325571/216776168-1f488327-0892-431c-bbcc-b0da330015fd.png)
+
+
 
 <img src="EliteHotelDashboard.PNG" width="1000">
