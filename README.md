@@ -25,4 +25,4 @@ Scientist to explore the data and provide
 some insights and recommendations?
 
 
-<img src="EliteHotelDashboard.PNG" width="700">
+<img src="EliteHotelDashboard.PNG" width="1000">
