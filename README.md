@@ -56,6 +56,4 @@ Make the hotel website a more user friendly and easy to use, place better incent
 
 Booking deposits which are non refundable should be tangible so as to disdcourage guest from cancelling
 
-![image](https://user-images.githubusercontent.com/112325571/216776168-1f488327-0892-431c-bbcc-b0da330015fd.png)
-
 <img src="EliteHotelDashboard.PNG" width="1000">
