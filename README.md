@@ -21,7 +21,7 @@ possibly revenue-diminishing factor for hotels
 to deal with.
 
 I was employed as a Data
-Scientist to explore the data and provide
+Analyst to explore the data and provide
 some insights and recommendations?
 
 
